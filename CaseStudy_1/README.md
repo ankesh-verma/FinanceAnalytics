@@ -1,5 +1,7 @@
 # Finance Analytics
-
+<p align="center">
+  <img src="https://github.com/ankesh-verma/FinanceAnalytics/blob/main/CaseStudy_1/images/hqdefault.jpg?raw=true" alt="Sublime's custom image"/>
+</p>
 ![enter image description here](https://github.com/ankesh-verma/FinanceAnalytics/blob/main/CaseStudy_1/images/hqdefault.jpg?raw=true)
 
 > ### **Introduction** : <br>
