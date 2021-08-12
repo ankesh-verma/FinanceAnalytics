@@ -1,6 +1,6 @@
 # Finance Analytics
 <p align="center">
-  <img src="https://github.com/ankesh-verma/FinanceAnalytics/blob/main/CaseStudy_1/images/hqdefault.jpg?raw=true" alt="Sublime's custom image" width=70%/>
+  <img src="https://github.com/ankesh-verma/FinanceAnalytics/blob/main/CaseStudy_1/images/hqdefault.jpg?raw=true" alt="Sublime's custom image" width=70% style="border-color=black" />
 </p>
 
 > ### **Introduction** : <br>
